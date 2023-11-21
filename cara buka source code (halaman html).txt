@@ -1,0 +1,5 @@
+Cara membuka source code 
+- dengan cara masuk ke VSCode open folder 21.83.0613_TK01_pw22
+- install extensi Live Server
+- Tekan ("ctrl+shift+P")
+- Kemudian masukan open with live server kemudian klick di halaman awal index.html
